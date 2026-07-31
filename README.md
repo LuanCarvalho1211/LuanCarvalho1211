@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Programando">
 
-### 💻 Estudante de Sistemas de Informação | Futuro Desenvolvedor Full Stack
+### 💻 Estudante de Sistemas de Informação | SNS (AMBEV)
 
 </div>
 
