@@ -25,11 +25,11 @@
 * 🗄️ SQL
 * 🐘 PHP
 
-🤝 Sempre aberto para colaborar em projetos Open Source.
-
-💡 Gosto de aprender novas tecnologias e resolver problemas através da programação.
-
-🎯 Meu objetivo é evoluir constantemente como desenvolvedor e criar soluções que realmente façam a diferença.
+- 🔭 Atualmente trabalhando em uma empresa de Vendas.
+- 🌱 Aprendendo **Python**, **PHP**, **JavaScript**, **SQL** e HTML.
+- 👯 Aberto para colaborar em projetos open source. (LÁ ELE 1000x)
+- 💡 Sempre buscando aprender algo novo.
+- 🎯 Objetivo: evoluir como desenvolvedor e criar soluções que façam a diferença.
 
 ---
 
@@ -43,35 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## ☕ Enquanto o código compila...
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320" alt="Coding GIF">
-
-</div>
 
 ---
 
