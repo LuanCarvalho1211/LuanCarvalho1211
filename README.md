@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Programando">
+<img src="https://i.pinimg.com/originals/71/1e/ab/711eabdcb2a98390783f75007ff6895d.gif" width="250" alt="Programando">
 
 ### 💻 Estudante de Sistemas de Informação | SNS (AMBEV)
 
