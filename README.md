@@ -1,16 +1,43 @@
-## Hi there 👋
+### Olá mundo, Me chamo Luan Carvalho 👋
 
-<!--
-**LuanCarvalho1211/LuanCarvalho1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```md id="h73p91"
 
-Here are some ideas to get you started:
+💻 Acadêmico em Sistemas de Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🔭 Atualmente trabalhando em uma empresa de Vendas.
+- 🌱 Aprendendo **Python**, **PHP**, **JavaScript**, **SQL** e HTML.
+- 👯 Aberto para colaborar em projetos open source. (LÁ ELE 1000x)
+- 💡 Sempre buscando aprender algo novo.
+- 🎯 Objetivo: evoluir como desenvolvedor e criar soluções que façam a diferença.
+
+## 🛠️ Tecnologias que estou estudando 
+
+- PYTHON
+- HTML
+- CSS
+- SQL
+
+
+&nbsp;<div align="center">
+  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
+</div>
+
+&nbsp;<div align="center">
+  [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+</div>
+
+## 📫 Contato
+
+- 📧 luanvictor141729@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+```
+
+
