@@ -1,6 +1,5 @@
 ### Olá mundo, Me chamo Luan Carvalho 👋
 
-```md id="h73p91"
 
 💻 Acadêmico em Sistemas de Informação.
 
@@ -19,9 +18,6 @@
 - CSS
 - SQL
 
-
-&nbsp;<div align="center">
-  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
 </div>
 
 &nbsp;<div align="center">
